@@ -3,3 +3,7 @@ A 'kernal that allows you to start up all your app dependencies (database, tests
 
 ## Installation
 'npm install web-kernal'
+
+## Configure
+Web-kernal depends on a single file called web-kernal-config.xml which it uses to generate the scripts to start kernal up
+
